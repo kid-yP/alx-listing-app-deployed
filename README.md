@@ -4,6 +4,9 @@
 
 A modern property listing platform built with React, TypeScript, and Tailwind CSS. This application provides a beautiful and intuitive interface for browsing and managing property listings, similar to Airbnb.
 
+## 🌐 Live Demo
+Check out the deployed version of the app on Vercel: https://alx-listing-app-deployed-delta.vercel.app/
+
 ## Features
 
 - Responsive property listing grid
